@@ -3,6 +3,10 @@ A repository created to stores codes for the Bsc Hons in Data Science Research P
 Topic: Modelling Gains and Falls in Financial Asset Returns; An Extreme Value Theory and Machine Learning Approach.
 
 Codes Include:
+Python Code for -
 Webscraping Stock data from the S&P500 companies.
 S&P500 Data Cleaning, Manipulation and Visualization.
-Performing analysis and forecasting on the scrapped data.
+Performing analysis, feature engineering, and forecasting on the scrapped data.
+
+R Code for -
+R shiny dashboard interactive web application.
